@@ -1,0 +1,26 @@
+p {
+    font-family: garamond;
+}
+
+html {
+    background-color: blueviolet;
+}
+
+html {
+    color: greenyellow;
+}
+
+table, th, td {
+    border: 1px solid;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+  }
+  
+  li a {
+    display: block;
+  }
